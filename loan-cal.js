@@ -1,9 +1,3 @@
-const invalidMarks = document.querySelectorAll(".marks");
-const invalidMarks = document.querySelector(".credits");
-
-
-
-
 const widthBtn = document.querySelector('.cal-amt');
 widthBtn.style.width = '17rem';
 document.querySelector('#loan-cal').addEventListener("submit", function (e) {
